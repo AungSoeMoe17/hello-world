@@ -67,8 +67,8 @@ from around the world.</h2>
         
        
         
-    </header>
-    <br><hr>
+    
+    
     <p style="text-align: right;">(---------နှလုံးသားမလှသူ မကြည့်ရ----)</p>
     <div style="background-color: black;margin: 0px -10px 20px -10px;">
     <div class="main">
