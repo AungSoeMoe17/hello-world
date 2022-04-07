@@ -1,83 +1,99 @@
 # hello-world
 just sout khwat pwong
-<!doctype html>
+<!DOCTYPE html>
 <html>
-<head>
-  <link href='https://fonts.googleapis.com/css?family=Libre+Baskerville:400,700,400italic' rel='stylesheet' type='text/css'>
-  <link rel="stylesheet" href="style.css">
-</head>
-<body>
-<header>
-        <h1 style="display:inline;">Aung Gyi's Fav Star</h1>
-        
-       
-        
-    </header>
-    <br><hr>
-    <p style="text-align: right;">(---------နှလုံးသားမလှသူ မကြည့်ရ----)</p>
-    <div style="background-color: black;margin: 0px -10px 20px -10px;">
-    <div class="main">
-        <div class="box">
-            <a href="https://www.xvideos.com/models/sybil-kailena" target="_blank">
-            <img src="https://babe.today/pic/21naturals/kristof-cale-sybil/brielle-hardcore-pinay-photo/hd-kristof-cale-sybil-2.jpg" ></a>
-            <h2>Sybil</h2>
+
+  <head>
+    <meta charset="utf-8">
+    <title>Savory</title>
+    <link rel="stylesheet" href="reset.css" />
+    <link rel="stylesheet" href="style.css" />
+    <link href="https://fonts.googleapis.com/css?family=Poppins:400,600" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Work+Sans" rel="stylesheet">
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header>
+        <img src="https://content.codecademy.com/courses/learn-css-grid/lesson-ii/savory.svg" class="logo">
+      </header>
+
+      <main>
+        <div class="recipe a">
+          <img src="https://content.codecademy.com/courses/learn-css-grid/lesson-ii/image-1.png" />
+          <h2>CHOCOLATE MOUSSE</h2>
+          <img src="https://content.codecademy.com/courses/learn-css-grid/lesson-ii/time.svg" class="time" />
+          <p class="mins">20 mins</p>
+          <p class="description">
+            This delicious chocolate mousse will delight dinner guests of all ages!</p>
         </div>
-        <div class="box">
-            <a href="https://www.xvideos.com/pornstars/liya-silver" target="_blank">
-            <img src="https://i.pinimg.com/originals/d0/09/f2/d009f2a35be7899e43c82914767de596.jpg" ></a>
-        <h2>Liya Silver</h2>
+        <div class="recipe b">
+          <img src="https://content.codecademy.com/courses/learn-css-grid/lesson-ii/image-2.png" />
+          <h2>SMOKED LAMB WITH RICE</h2>
+          <img src="https://content.codecademy.com/courses/learn-css-grid/lesson-ii/time.svg" class="time" />
+          <p class="mins">120 mins</p>
+          <p class="description">
+            Want to feel like your favorite relative came over and made you dinner? This comfort meal of smoked lamb and rice will quickly become a weekend favorite!
+          </p>
         </div>
-        <div class="box">
-            <a href="https://www.xvideos.com/video57887125/blackedraw_big-titted_hottie_fucks_bbc_while_bf_is_away" target="_blank" >
-                <img src="https://images-cdn.9gag.com/photo/aQ1EG5d_700b.jpg" alt="">
-            </a>
-        <h2>Kagney Linn Karter</h2>
+        <div class="recipe c">
+          <img src="https://content.codecademy.com/courses/learn-css-grid/lesson-ii/image-5.png" />
+          <h2>GOAT CHEESE SALAD</h2>
+          <img src="https://content.codecademy.com/courses/learn-css-grid/lesson-ii/time.svg" class="time" />
+          <p class="mins">25 mins</p>
+          <p class="description">
+            In addition to the full flavor of goat cheese, this salad includes kale, avocado, and farro to balance it out.</p>
         </div>
-        <div class="box">
-            <a href="https://www.xvideos.com/video57868463/blackedraw_she_sneaks_out_for_some_bbc" target="_blank">
-                <img src="https://starktimes.com/wp-content/uploads/2021/01/Jia-Lissa.jpg" alt="">
-            </a>
-        <h2>Jia Lissa</h2>
+        <div class="recipe d">
+          <img src="https://content.codecademy.com/courses/learn-css-grid/lesson-ii/image-4.png" />
+          <h2>CHICKEN SANDWICH</h2>
+          <img src="https://content.codecademy.com/courses/learn-css-grid/lesson-ii/time.svg" class="time" />
+          <p class="mins">45 mins</p>
+          <p class="description">
+            We've packed a lot into this one - shredded cabbage, carmalized onions, deep-fried chicken, chipotle mayo, half-sour pickles, and a toasted sesame bun will leave you thoroughly satisfied!</p>
         </div>
-        <div class="box">
-            <a href="https://www.pornhub.com/model/solazola/videos" target="_blank">
-                <img src="https://img-comment-fun.9cache.com/media/aV06AnO/aR7m0jXK_700w_0.jpg" alt="">
-            </a>
-        <h2>Sola Zola</h2>
+        <div class="recipe e">
+          <img src="https://content.codecademy.com/courses/learn-css-grid/lesson-ii/image-3.png" />
+          <h2>SWEET CHURROS</h2>
+          <img src="https://content.codecademy.com/courses/learn-css-grid/lesson-ii/time.svg" class="time" />
+          <p class="mins">90 mins</p>
+          <p class="description">
+            Making this classic summer treat at home will remind you of a childhood spent in the park.</p>
         </div>
-        <div class="box">
-            <a href="https://www.xvideos.com/pornstars/lana-rhoades" target="_blank" >
-                <img src="https://wallpapercave.com/wp/wp4523035.jpg" alt="">
-            </a>
-        <h2>Lana Rhodes</h2>
+        <div class="recipe f">
+          <img src="https://content.codecademy.com/courses/learn-css-grid/lesson-ii/image-6.png" />
+          <h2>BERRY PARFAIT</h2>
+          <img src="https://content.codecademy.com/courses/learn-css-grid/lesson-ii/time.svg" class="time" />
+          <p class="mins">10 mins</p>
+          <p class="description">
+            This low-calorie, vitamin-packed parfait is great for breakfast, dessert, or post-workout!</p>
         </div>
-        <div class="box">
-            <a href="https://www.xvideos.com/pornstars/leah-gotti" target="_blank" >
-                <img src="https://wallpapercave.com/wp/wp3933595.jpg" alt="">
-            </a>
-        <h2>Leah Gotti</h2>
+        <div class="recipe e">
+          <img src="https://content.codecademy.com/courses/learn-css-grid/lesson-ii/image-3.png" />
+          <h2>SWEET CHURROS</h2>
+          <img src="https://content.codecademy.com/courses/learn-css-grid/lesson-ii/time.svg" class="time" />
+          <p class="mins">90 mins</p>
+          <p class="description">
+            Making this classic summer treat at home will remind you of a childhood spent in the park.</p>
         </div>
-        <div class="box">
-            <a href="https://www.xvideos.com/video55610453/seducing_the_country_girl_2020" target="_blank" >
-                <img src="https://d2j1wkp1bavyfs.cloudfront.net/image-assets/715287/rYC6UyML4CU4zYiZVbDMrwnGyWW.jpg?d=360x540&q=50" alt="">
-            </a>
-        <h2>Tae Hee</h2>
+        <div class="recipe f">
+          <img src="https://content.codecademy.com/courses/learn-css-grid/lesson-ii/image-6.png" />
+          <h2>BERRY PARFAIT</h2>
+          <img src="https://content.codecademy.com/courses/learn-css-grid/lesson-ii/time.svg" class="time" />
+          <p class="mins">10 mins</p>
+          <p class="description">
+            This low-calorie, vitamin-packed parfait is great for breakfast, dessert, or post-workout!</p>
         </div>
+      </main>
+
+      <footer>
+        <img src="https://content.codecademy.com/courses/learn-css-grid/lesson-ii/savory.svg" class="logo">
+      </footer>
+
     </div>
-    </div>
-    <div>
-        <hr>
-        <h3 style="margin-left: 20px;">General Health Benefits Of Masturbation</h3>
-        <ul>
-            <li>helps in relaxation  </li>
-            <li>promotes better sleep</li>
-            <li>promotes the release of the brain’s opioid-like neurotransmitters (called endorphins), which cause feelings of physical and mental wellbeing</li>
-            <li>reduces stress</li>
-            <li>enhances self-esteem and body image.</li>
-        </ul>
-        <hr>
-        
-  </div>
-</body>
+  </body>
+
 </html>
 
