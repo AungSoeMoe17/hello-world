@@ -65,12 +65,7 @@ from around the world.</h2>
   <header>
    <h1 style="display:inline;">Aung Gyi's Fav Star</h1>
         
-        <nav class="up">
-            <ul  style="display:inline;">
-            
-            <li class="bar"><a href="https://www.facebook.com/aungsoemoe.greenland">Contact</a></li>
-            </ul>
-        </nav>
+       
         
     </header>
     <br><hr>
