@@ -1,7 +1,6 @@
 # hello-world
 just sout khwat pwong
-
-
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -168,3 +167,5 @@ just sout khwat pwong
     </script>
 </body>
 </html>
+
+
