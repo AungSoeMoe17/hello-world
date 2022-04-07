@@ -62,6 +62,7 @@ from around the world.</h2>
     <p>New York, NY</p>
     <p>(484) 192 - 8372</p>
   </div>
+  <header>
    <h1 style="display:inline;">Aung Gyi's Fav Star</h1>
         
         <nav class="up">
