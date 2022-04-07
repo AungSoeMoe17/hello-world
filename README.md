@@ -1,99 +1,66 @@
 # hello-world
 just sout khwat pwong
-<!DOCTYPE html>
+<!doctype html>
 <html>
-
-  <head>
-    <meta charset="utf-8">
-    <title>Savory</title>
-    <link rel="stylesheet" href="reset.css" />
-    <link rel="stylesheet" href="style.css" />
-    <link href="https://fonts.googleapis.com/css?family=Poppins:400,600" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Work+Sans" rel="stylesheet">
-  </head>
-
-  <body>
-
+<head>
+  <link href='https://fonts.googleapis.com/css?family=Libre+Baskerville:400,700,400italic' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="header">
     <div class="container">
-
-      <header>
-        <img src="https://content.codecademy.com/courses/learn-css-grid/lesson-ii/savory.svg" class="logo">
-      </header>
-
-      <main>
-        <div class="recipe a">
-          <img src="https://content.codecademy.com/courses/learn-css-grid/lesson-ii/image-1.png" />
-          <h2>CHOCOLATE MOUSSE</h2>
-          <img src="https://content.codecademy.com/courses/learn-css-grid/lesson-ii/time.svg" class="time" />
-          <p class="mins">20 mins</p>
-          <p class="description">
-            This delicious chocolate mousse will delight dinner guests of all ages!</p>
-        </div>
-        <div class="recipe b">
-          <img src="https://content.codecademy.com/courses/learn-css-grid/lesson-ii/image-2.png" />
-          <h2>SMOKED LAMB WITH RICE</h2>
-          <img src="https://content.codecademy.com/courses/learn-css-grid/lesson-ii/time.svg" class="time" />
-          <p class="mins">120 mins</p>
-          <p class="description">
-            Want to feel like your favorite relative came over and made you dinner? This comfort meal of smoked lamb and rice will quickly become a weekend favorite!
-          </p>
-        </div>
-        <div class="recipe c">
-          <img src="https://content.codecademy.com/courses/learn-css-grid/lesson-ii/image-5.png" />
-          <h2>GOAT CHEESE SALAD</h2>
-          <img src="https://content.codecademy.com/courses/learn-css-grid/lesson-ii/time.svg" class="time" />
-          <p class="mins">25 mins</p>
-          <p class="description">
-            In addition to the full flavor of goat cheese, this salad includes kale, avocado, and farro to balance it out.</p>
-        </div>
-        <div class="recipe d">
-          <img src="https://content.codecademy.com/courses/learn-css-grid/lesson-ii/image-4.png" />
-          <h2>CHICKEN SANDWICH</h2>
-          <img src="https://content.codecademy.com/courses/learn-css-grid/lesson-ii/time.svg" class="time" />
-          <p class="mins">45 mins</p>
-          <p class="description">
-            We've packed a lot into this one - shredded cabbage, carmalized onions, deep-fried chicken, chipotle mayo, half-sour pickles, and a toasted sesame bun will leave you thoroughly satisfied!</p>
-        </div>
-        <div class="recipe e">
-          <img src="https://content.codecademy.com/courses/learn-css-grid/lesson-ii/image-3.png" />
-          <h2>SWEET CHURROS</h2>
-          <img src="https://content.codecademy.com/courses/learn-css-grid/lesson-ii/time.svg" class="time" />
-          <p class="mins">90 mins</p>
-          <p class="description">
-            Making this classic summer treat at home will remind you of a childhood spent in the park.</p>
-        </div>
-        <div class="recipe f">
-          <img src="https://content.codecademy.com/courses/learn-css-grid/lesson-ii/image-6.png" />
-          <h2>BERRY PARFAIT</h2>
-          <img src="https://content.codecademy.com/courses/learn-css-grid/lesson-ii/time.svg" class="time" />
-          <p class="mins">10 mins</p>
-          <p class="description">
-            This low-calorie, vitamin-packed parfait is great for breakfast, dessert, or post-workout!</p>
-        </div>
-        <div class="recipe e">
-          <img src="https://content.codecademy.com/courses/learn-css-grid/lesson-ii/image-3.png" />
-          <h2>SWEET CHURROS</h2>
-          <img src="https://content.codecademy.com/courses/learn-css-grid/lesson-ii/time.svg" class="time" />
-          <p class="mins">90 mins</p>
-          <p class="description">
-            Making this classic summer treat at home will remind you of a childhood spent in the park.</p>
-        </div>
-        <div class="recipe f">
-          <img src="https://content.codecademy.com/courses/learn-css-grid/lesson-ii/image-6.png" />
-          <h2>BERRY PARFAIT</h2>
-          <img src="https://content.codecademy.com/courses/learn-css-grid/lesson-ii/time.svg" class="time" />
-          <p class="mins">10 mins</p>
-          <p class="description">
-            This low-calorie, vitamin-packed parfait is great for breakfast, dessert, or post-workout!</p>
-        </div>
-      </main>
-
-      <footer>
-        <img src="https://content.codecademy.com/courses/learn-css-grid/lesson-ii/savory.svg" class="logo">
-      </footer>
-
+      <h1>Headlines.</h1>
+      <ul>
+        <li><a href="3">About</a></li>
+        <li><a href="#expertise">Our Services</a></li>
+        <li><a href="3">Our Team</a></li>
+        <li><a href="#footer">Contact Us</a></li>
+      </ul>
     </div>
-  </body>
-
+  </div>
+  <div class="jumbotron">
+    <div class="container">
+      <h2>We <span>collect and curate</span>
+articles, opinions, and images
+from around the world.</h2>
+    </div>
+  </div>
+  <div class="banner">
+    <div class="container">
+      <h2>The Bottom Line.</h2>
+      <p>We deliver the news that is relevant to you.</p>
+    </div>
+  </div>
+  <div class="container">
+    <h2 id="expertise">Our Expertise.</h2>
+    <div class="main">
+      <div class="spacer">
+        <div class="cards">
+          <div class="col">
+            <img src="https://content.codecademy.com/projects/headlines/p1.jpg">
+            <img src="https://content.codecademy.com/projects/headlines/p6.jpg">
+            <img src="https://content.codecademy.com/projects/headlines/p8.jpg">
+          </div>
+          <div class="col">
+            <img src="https://content.codecademy.com/projects/headlines/p2.jpg">
+            <img src="https://content.codecademy.com/projects/headlines/p5.jpg">
+            <img src="https://content.codecademy.com/projects/headlines/p7.jpg">
+          </div>
+          <div class="col">
+            <img src="https://content.codecademy.com/projects/headlines/p3.jpg">
+            <img src="https://content.codecademy.com/projects/headlines/p4.jpg">
+            <img src="https://content.codecademy.com/projects/headlines/p9.jpg">
+            <img src="https://content.codecademy.com/projects/headlines/p10.jpg">
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="footer">
+    <h3>Headlines.</h3>
+    <p>1000 7th Avenue</p>
+    <p>New York, NY</p>
+    <p>(484) 192 - 8372</p>
+  </div>
+</body>
 </html>
-
