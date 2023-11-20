@@ -1,0 +1,123 @@
+/* 
+ #FAF7F0 FAF7F0
+ #CDFCF6 CDFCF6
+ #BCCEF8 BCCEF8
+ #98A8F8 98A8F8
+*/
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+
+}
+h1{
+    color:#66bfbf;
+    font-size: 5.625rem;
+    margin: 0 auto 20px;
+    font-family: 'Poor Story', cursive;
+}
+h2{
+    color:#66bfbf;
+    font-weight: bold;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+}
+h3{
+    color:#11999E;
+    font-family: 'Montserrat', sans-serif;
+}
+hr{
+    color:  rgb(185, 185, 185);
+    border-style:dotted none none none;
+    border-width: 0.40rem;
+    width:5%;
+    margin:10px auto;
+}
+.top-container{
+    background-color: #E4F9F5;
+    padding-top: 180px;
+    position: relative;
+    max-width:1600px;
+    margin: 0 auto;
+}
+.middle-container{
+    background-color: #fff;
+    padding-top: 100px;
+    max-width: 1600px;
+    margin: 0 auto;
+}
+.bottom-container{
+    background-color: #66bfbf;
+    max-width: 1600px;
+    height: 200px;
+    margin: 0 auto;
+    color: #fff;
+}
+.top-cloud{
+    position: absolute;
+    right:200px;
+    top:100px;
+}
+.bottom-cloud{
+    position: absolute;
+    left:300px;
+    bottom:300px;
+}
+.web{
+    text-decoration: underline;
+}
+.profile{
+    margin-bottom: 100px;
+}
+.profile-image{
+    max-width: 300px;
+    width: 30%;
+}
+.skills{
+    margin-top: 100px;
+}
+.skill-row{
+    width: 70%;
+    padding: 10px 0;
+    margin: 100px auto 100px;
+    text-align: left;
+    line-height: 2;
+}
+.contact-me{
+    margin: 100px auto 100px;
+    line-height: 3rem;
+}
+.btn{
+    color:#ffff;
+    background-color: #11999E;
+    font-size: 1.2rem;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    text-decoration:none;
+    letter-spacing: 3px;
+    padding: 0px 15px;
+    margin: 40px auto 0;
+    border-radius: 10px;
+    display: inline-block;
+}
+.footer-link{
+    display: inline-block;
+    color: #0e7376;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    text-decoration:none;
+    letter-spacing: 3px;
+    margin: 50px 5% 50px;
+}
+.web-dev-image{
+    max-width: 300px;
+    width: 30%;
+    float: left;
+    margin-right: 30px;
+}
+.travel-image{
+    max-width: 300px;
+    width: 30%;
+    float: right;
+    margin-left: 30px;
+}

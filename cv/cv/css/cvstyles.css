@@ -1,0 +1,39 @@
+  /* 
+#FDFDBD 
+#C8FFD4
+#B8E8FC
+#B1AFFF
+*/
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+body{
+    background-color:#ffffff;
+    font-family: 'Ubuntu', sans-serif;
+}
+hr{
+    color:  #C8FFD4;
+    border-style:dotted none none none;
+    border-width: 0.40em;
+    width:10%;
+    margin:10px auto;
+}
+img{
+    width:200px;
+    height: auto;
+}
+table{
+    margin: 0 0 20px 10%;
+    background-color:none;
+    border-radius: 15px;
+    
+}
+h1{
+    color:#6734d5;
+}
+h3{
+    text-align: center;
+    color:#7b77ff;
+    margin-top: 60px;
+}
+th{
+    color:#7b77ff;
+}
